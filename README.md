@@ -23,9 +23,3 @@ A responsive, modern HTML5 website showcasing ZozaScript's digital services.
 └── assets/ # (Optional) For future CSS/JS/images
 
 
-## 🧑‍💻 How to Run Locally
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/<repository-name>.git
-
-    Open index.html in your browse
